@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Счётчик</string>
+    <string name="hint_number">Введите число</string>
+    <string name="apply">Применить</string>
+</resources>
